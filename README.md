@@ -2,6 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/muzammal/syncenvvariables.svg?style=flat-square)](https://packagist.org/packages/muzammal/syncenvvariables)
 [![Total Downloads](https://img.shields.io/packagist/dt/muzammal/syncenvvariables.svg?style=flat-square)](https://packagist.org/packages/muzammal/syncenvvariables)
+
 **SyncEnvVariables** is a Laravel package designed to help teams keep their `.env` files synchronized with the `.env.example` file. 🔄 By running a simple command, you can automatically update your local `.env` file to include any new environment variables defined in `.env.example`, saving time and reducing configuration errors.
 
 ---
