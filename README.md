@@ -58,4 +58,4 @@ The command will check for any missing variables in your `.env` file and automat
 
 ## 📜 License
 
-This package is open-source software licensed under the MIT license LICENSE.
+This package is open-source software licensed under the MIT license.
