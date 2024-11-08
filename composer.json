@@ -1,0 +1,26 @@
+{
+    "name": "muzammal/syncenvvariables",
+    "version": "1.0.0",
+    "description": "A Laravel package to synchronize environment variables from .env.example to .env",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Muzammal\\Syncenvvariables\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muzammal",
+            "email": "muzidev55@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Muzammal\\SyncEnvVariables\\SyncEnvVariablesServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
