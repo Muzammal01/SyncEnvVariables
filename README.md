@@ -22,17 +22,6 @@
    composer require muzammal/syncenvvariables
    ```
 
-2. **Register the Service Provider (if not auto-discovered):**
-
-   Add the service provider in `config/app.php`:
-
-   ```php
-   'providers' => [
-       // ...
-       Muzammal\SyncEnvVariables\SyncEnvVariablesServiceProvider::class,
-   ],
-   ```
-
 ---
 
 ## 📘 Usage
